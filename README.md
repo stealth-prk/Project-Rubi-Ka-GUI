@@ -10,7 +10,7 @@ Project Rubi-Ka GUI keeps the original AO visual language intact while making th
 **Current release — v2.4**
 
 Download the build that fits your preferred bottom-bar layout from Releases:
-AOU-PRK-v2.4-Stable.zip — Standard layout.
+AOU-PRK-v2.4-Stable.zip 
 
 **Highlights**
 
