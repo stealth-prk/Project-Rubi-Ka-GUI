@@ -1,7 +1,4 @@
 # Project-Rubi-Ka-GUI
-Custom GUI based on AOU for PRK 
-
-**Project Rubi-Ka GUI**
 
 A clean, OEM+ dark-teal GUI skin for Anarchy Online and Project Rubi-Ka, built from the AOU layout.
 
