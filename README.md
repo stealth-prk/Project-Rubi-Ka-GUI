@@ -49,7 +49,9 @@ Extract the included GUI folder into your AO client's Gui directory:
 
 Screenshots for reference: 
 
-placeholder
+![Select the GUI skin](screenshots/install/gui-launcher.jpg)
+
+![Extract into the AO Gui folder](screenshots/install/gui-folder.jpg)
 
 **Notes**
 
