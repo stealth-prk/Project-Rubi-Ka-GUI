@@ -27,7 +27,11 @@ Cleaner high-contrast attack timer
 
 **Screenshots**
 
-Screenshots coming shortly — the best full-HUD, target-bar, inventory, and menu views will live here.
+![Project Rubi-Ka v2.4 — Full HUD](screenshots/full-hud.jpg)
+
+![Target health bars](screenshots/options.jpg)
+
+![Inventory and menu styling](screenshots/inventory.jpg)
 
 **Installation**
 
