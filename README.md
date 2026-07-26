@@ -2,7 +2,8 @@
 
 A clean, OEM+ dark-teal GUI skin for Anarchy Online and Project Rubi-Ka, built from the AOU layout.
 
-Project Rubi-Ka GUI keeps the original AO visual language intact while making the HUD easier to read at modern resolutions. The goal is simple: it should feel like a sharper, more cohesive version of the UI Funcom could have shipped.
+Project Rubi-Ka GUI keeps the original AO visual language intact while making the HUD easier to read at modern resolutions. 
+The goal is simple: it should feel like a sharper, more cohesive version of the UI Funcom could have shipped.
 
 **Current release — v2.4**
 
@@ -10,16 +11,16 @@ Project Rubi-Ka GUI keeps the original AO visual language intact while making th
 
 **Highlights**
 
-Dark-teal OEM+ AOU styling with subtle cyan accents
-Recolored original AO action bars — original geometry retained
-Inventory, NCU, action-bar, and pet NCU slot styling
-Vanilla AO cursor family
-Refined target health bars with threat colors preserved
-12px player Health, Nano, XP, and Alien XP bars with unified, color-matched end caps
-Aligned compass and Agg/Def presentation
-Improved submenu contrast: cyan normal text, amber selected state
-Larger Available Improvement Points header/number in the Skills window
-Cleaner high-contrast attack timer
+- Dark-teal OEM+ AOU styling with subtle cyan accents.
+- Recolored original AO action bars — original geometry retained.
+- Inventory, NCU, action-bar, and pet NCU slot styling.
+- Vanilla AO cursor family.
+- Refined target health bars with threat colors preserved.
+- 12px player Health, Nano, XP, and Alien XP bars with unified, color-matched end caps.
+- Aligned compass and Agg/Def presentation.
+- Improved submenu contrast: cyan normal text, amber selected state.
+- Larger Available Improvement Points header/number in the Skills window.
+- Cleaner high-contrast attack timer.
 
 **Screenshots**
 
