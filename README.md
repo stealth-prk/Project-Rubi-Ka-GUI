@@ -1,19 +1,19 @@
 # Project-Rubi-Ka-GUI
 Custom GUI based on AOU for PRK 
 
-Project Rubi-Ka GUI
+**Project Rubi-Ka GUI**
 
 A clean, OEM+ dark-teal GUI skin for Anarchy Online and Project Rubi-Ka, built from the AOU layout.
 
 Project Rubi-Ka GUI keeps the original AO visual language intact while making the HUD easier to read at modern ultrawide resolutions. The goal is simple: it should feel like a sharper, more cohesive version of the UI Funcom could have shipped.
 
-Current release — v2.4
+**Current release — v2.4**
 
 Download the build that fits your preferred bottom-bar layout from Releases:
 
 AOU-PRK-v2.4-Stable.zip — Standard layout.
 
-Highlights
+**Highlights**
 
 Dark-teal OEM+ AOU styling with subtle cyan accents
 
@@ -35,11 +35,11 @@ Larger Available Improvement Points header/number in the Skills window
 
 Cleaner high-contrast attack timer
 
-Screenshots
+**Screenshots**
 
 Screenshots coming shortly — the best full-HUD, target-bar, inventory, and menu views will live here.
 
-Installation
+**Installation**
 
 Download one of the ZIP files from the latest release.
 
@@ -51,7 +51,7 @@ Restart/reload the client if the new skin does not immediately appear.
 
 Back up your existing GUI folder before replacing or experimenting with files.
 
-Notes
+**Notes**
 
 Designed and tested at 3440 × 1440.
 
@@ -61,6 +61,6 @@ The Wear window is intentionally left vanilla.
 
 The stock AO/AOU submenu tooltip-overlay behavior is engine-side and may occur in unmodified AOU-derived skins as well.
 
-Compatibility
+**Compatibility**
 
 This project is a fan-made GUI skin. It requires an Anarchy Online installation; original game assets remain the property of Funcom.
