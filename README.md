@@ -6,7 +6,9 @@ Project Rubi-Ka GUI keeps the original AO visual language intact while making th
 
 **Current release — v2.4**
 
-Download AOU-PRK-v2.4-Stable.zip from the latest release.
+Download the current build:
+
+[Download AOU-PRK v2.4 Stable](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable.zip)
 
 **Highlights**
 
