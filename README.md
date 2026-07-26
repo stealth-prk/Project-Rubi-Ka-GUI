@@ -6,8 +6,7 @@ Project Rubi-Ka GUI keeps the original AO visual language intact while making th
 
 **Current release — v2.4**
 
-Download latest release:
-AOU-PRK-v2.4-Stable.zip 
+Download AOU-PRK-v2.4-Stable.zip from the latest release.
 
 **Highlights**
 
