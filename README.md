@@ -1,9 +1,8 @@
 # Project-Rubi-Ka-GUI
 
-A clean, OEM+ dark-teal GUI skin for Anarchy Online and Project Rubi-Ka, built from the AOU layout.
-
-Project Rubi-Ka GUI keeps the original AO visual language intact while making the HUD easier to read at modern resolutions. 
-The goal is simple: it should feel like a sharper, more cohesive version of the UI Funcom could have shipped.
+- A clean, OEM+ dark-teal GUI skin for Anarchy Online and Project Rubi-Ka, built from the AOU layout.
+- Project Rubi-Ka GUI keeps the original AO visual language intact while making the HUD easier to read at modern resolutions. 
+- The goal is simple: it should feel like a sharper, more cohesive version of the UI Funcom could have shipped.
 
 **Current release — v2.4**
 
