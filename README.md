@@ -34,17 +34,22 @@ Cleaner high-contrast attack timer
 
 Download one of the ZIP files from the latest release.
 Extract the included GUI folder into your AO client's Gui directory:
-  --> Open PRK Launcher
-  --> Click "Settings"
-  --> Navigate to "GUI" Tab
-  --> Click "Open Data Folder"
-  --> Navigate to "GUI" Folder
-  --> Extract folder and contents into "GUI" Folder
-  --> Restart PRK Launcher 
-  --> Navigate back to "GUI" Tab
-  --> In the "GUI Skin" menu, select the latest stable release. 
-  --> Click "Save"
-  --> GUI will now load in upon launch. 
+
+1) Open PRK Launcher
+2) Click "Settings"
+3) Navigate to "GUI" Tab
+4) Click "Open Data Folder"
+5) Navigate to "GUI" Folder
+6) Extract folder and contents into "GUI" Folder
+7) Restart PRK Launcher 
+8) Navigate back to "GUI" Tab
+9) In the "GUI Skin" menu, select the latest stable release. 
+10) Click "Save"
+11) GUI will now load in upon launch.
+
+Screenshots for reference: 
+
+placeholder
 
 **Notes**
 
