@@ -8,7 +8,7 @@
 
 [Download AOU-PRK v2.4 Stable](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable.zip)
 
-[Download AOU-PRK v2.4 Stable — Left-Justified](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable-LeftJustified.zip) <--- Download this version if you're running a lower resolution
+[Download AOU-PRK v2.4 Stable — Left-Justified](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable-LeftJustified.zip)
 
 **Highlights**
 
