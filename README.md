@@ -6,6 +6,8 @@
 
 **Current release — v2.4**
 
+READ ME: IF YOU ARE RUNNING A LOWER RESOLUTION (1080P) DOWNLOAD THE "LEFT-JUSTIFIED" VERSION OR ELSE YOU WON'T SEE ALL THE BUTTONS.
+
 [Download AOU-PRK v2.4 Stable](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable.zip)
 
 [Download AOU-PRK v2.4 Stable — Left-Justified](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AO-PRK-v2.4-Stable-LeftJustified.zip)
