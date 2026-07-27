@@ -6,11 +6,11 @@
 
 **Current release — v2.4**
 
-**IMPORTANT:** If you are running a lower resolution (like 1080P), download the **"LEFT-JUSTIFIED"** version or else you won't see all the menus on the bottom bar. This GUI was designed with an ultra-wide monitor/aspect ratio. 
+**IMPORTANT:** If you are running a resolution of 1080P, download the **"LEFT-JUSTIFIED"** version or else you won't see all the menus on the bottom bar.
 
-[Download AOU-PRK v2.4 Stable](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable.zip)
+[Download AOU-PRK v2.4 Stable](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AOU-PRK-v2.4-Stable.zip) <-- Designed for monitor resolutions of 1440P and up. 
 
-[Download AOU-PRK v2.4 Stable — Left-Justified](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AO-PRK-v2.4-Stable-LeftJustified.zip)
+[Download AOU-PRK v2.4 Stable — Left-Justified](https://github.com/stealth-prk/Project-Rubi-Ka-GUI/releases/download/v2.4/AO-PRK-v2.4-Stable-LeftJustified.zip) <--- Designed for 1080P. 
 
 **Highlights**
 
