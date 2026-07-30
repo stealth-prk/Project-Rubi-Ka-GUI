@@ -1,4 +1,4 @@
-# Project-Rubi-Ka-GUI
+# Stealth's PRK GUI
 
 - A clean, OEM+ dark-teal GUI skin for Anarchy Online and Project Rubi-Ka, built from the AOU layout.
 - Project Rubi-Ka GUI keeps the original AO visual language intact while making the HUD easier to read at modern resolutions. 
